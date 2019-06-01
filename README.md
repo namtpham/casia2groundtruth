@@ -32,7 +32,6 @@ b. Copy-move images
 * Tp_S_NRN_M_N_pla00020_pla00020_10988.jpg
 * Tp: Tampering
 * S: Same (means the tampered region was copied from the same image)
-
 * And the rest is similar to case a.
 
 ## If you are using the groundtruth dataset for a scientific publication, please cite the following paper:
