@@ -2,7 +2,7 @@
 
 * Groundtruth dataset can be downloaded directly from this Github.
 * Recently, I received several requests of the original dataset since the server is no longer available.
-I upload this dataset to my Drive to spread this dataset to research community. 
+I upload this dataset to my Drive to spread this dataset to the research community. 
 
 https://goo.gl/4Q7bJW
 
