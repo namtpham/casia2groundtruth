@@ -1,7 +1,6 @@
 # Groundtruth of spliced images in dataset CASIA 2.0
 
 * Groundtruth dataset can be downloaded directly from this Github.
-
 * Recently, I received several requests of the original dataset since the server is no longer available.
 I upload this dataset to my Drive to spread this dataset to research community. 
 
@@ -34,7 +33,7 @@ b. Copy-move images
 * S: Same (means the tampered region was copied from the same image)
 * And the rest is similar to case a.
 
-## If you are using the groundtruth dataset for a scientific publication, please cite the following paper:
+## If you use the groundtruth dataset for a scientific publication, please cite the following paper:
 
     @article{pham2019hybrid,
       title={Hybrid Image-Retrieval Method for Image-Splicing Validation},
