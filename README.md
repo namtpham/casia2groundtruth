@@ -1,6 +1,6 @@
 # Groundtruth of spliced images in dataset CASIA 2.0
 
-* Groundtruth dataset can be downloaded directly from this Github.
+* Groundtruth dataset can be downloaded directly from this repository.
 * Recently, I received several requests of the original dataset since the server is no longer available.
 I upload this dataset to my Drive to spread this dataset to the research community. 
 
