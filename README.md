@@ -19,7 +19,8 @@ Other categories: arc (architecture), art, cha (characters), ind (indoor), nat (
 ## Tampering images
 
 a. Spliced image
-Tp_D_CRN_S_N_cha00063_art00014_11818.jpg
+
+        Tp_D_CRN_S_N_cha00063_art00014_11818.jpg
 * Tp: Tampering
 * D: Different (means the tampered region was copied from the different image)
 * Next 5 letters stand for the techniques they used to create the images. Unfortunately, I don't remember exactly.
@@ -28,7 +29,8 @@ Tp_D_CRN_S_N_cha00063_art00014_11818.jpg
 * 11818: tampered image ID
 
 b. Copy-move images
-* Tp_S_NRN_M_N_pla00020_pla00020_10988.jpg
+
+        Tp_S_NRN_M_N_pla00020_pla00020_10988.jpg
 * Tp: Tampering
 * S: Same (means the tampered region was copied from the same image)
 * And the rest is similar to case a.
