@@ -35,7 +35,7 @@ b. Copy-move images
 * S: Same (means the tampered region was copied from the same image)
 * And the rest is similar to case a.
 
-If you use the groundtruth dataset for a scientific publication, please cite the following paper:
+If you use the groundtruth dataset for a scientific publication, please cite the following paper (https://res.mdpi.com/symmetry/symmetry-11-00083/article_deploy/symmetry-11-00083.pdf):
 
     @article{pham2019hybrid,
       title={Hybrid Image-Retrieval Method for Image-Splicing Validation},
