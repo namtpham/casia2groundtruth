@@ -2,11 +2,11 @@
 
 * Groundtruth dataset can be downloaded directly from this repository.
 * Recently, I received several requests of the original dataset since the server is no longer available.
-I upload this dataset to my Drive to spread this dataset to the research community. 
+I upload this dataset to my Drive to spread this dataset to the research community. https://goo.gl/4Q7bJW
 
-https://goo.gl/4Q7bJW
+* Update (09/30/2019): in this version, almost the noises in the previous version are handled.
 
-Please notice that the authors made several mistakes in naming the files. 
+Please notice that the authors made many mistakes in naming the files. I recommend you to rename the tampered images using the commands in the excel files.
 Due to the lack of manual file, I write up here the naming convention:
 
 ## Authentic images:
