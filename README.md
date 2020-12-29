@@ -4,7 +4,10 @@
 
 * Groundtruth dataset can be downloaded directly from this repository.
 * Recently, I received several requests of the original dataset since the server is no longer available.
-I upload this dataset to my Drive to spread this dataset to the research community. https://goo.gl/4Q7bJW
+I upload this dataset to my Drive to spread this dataset to the research community. Please visit one of the following links to download: (~2.6 GB)
+
+* Google Drive: https://bit.ly/2Jx9ROM
+* One Drive: https://bit.ly/34TpwiJ
 
 * Update (09/30/2019): in this version, almost the noises in the previous version are handled. The file names are also revised carefully.
 
