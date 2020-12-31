@@ -12,6 +12,15 @@ I upload this dataset to my Drive to spread this dataset to the research communi
 * Update (09/30/2019): in this version, almost the noises in the previous version are handled. The file names are also revised carefully.
 
 Please notice that the authors made many mistakes in naming the files. I recommend you to rename the tampered images using the commands in the excel files. 
+Originally, it was reported that there are 5123 tampered images, including 3274 copy-move images and 1849 spliced images. However, mistakenly classified files are renamed as follows.
+
+| No. of images | Originally named as           | Re-classified as              |
+| :---:         | :---:                         | :---:                         |
+| 39            | Copy-move images (TP_S_)      | Spliced images (S->D)         |
+| 60            | Spliced images (TP_D_)        | Copy-move images (D->S)       |
+
+        After renaming the files, the number of copy-move and spliced images are 3295 and 1828, respectively.
+
 Due to the lack of manual file, I write up here the naming convention:
 
 ## Authentic images:
