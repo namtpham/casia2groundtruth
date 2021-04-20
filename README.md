@@ -4,14 +4,15 @@
 
 * Groundtruth dataset can be downloaded directly from this repository.
 * Recently, I received several requests of the original dataset since the server is no longer available.
-I upload this dataset to my Drive to spread this dataset to the research community. Please visit one of the following links to download: (~2.6 GB)
+I upload this dataset to my Drive to spread this dataset to the research community. Please visit the following link to download: (~2.6 GB)
 
-* Google Drive: https://bit.ly/2Jx9ROM
-* One Drive: https://bit.ly/34TpwiJ
+* [Update 2021/04/20] Revised dataset with files name already revised: https://bit.ly/2QazgkG
 
-* Update (09/30/2019): in this version, almost the noises in the previous version are handled. The file names are also revised carefully.
+I removed the download link of the original dataset to avoid the confusion. If you need it, feel free to email me.
 
-Please notice that the authors made many mistakes in naming the files. I recommend you to rename the tampered images using the commands in the excel files. 
+* [Update 2019/09/30]: In this version, almost the noises in the previous version are handled. The file names are also revised carefully.
+
+Please notice that the authors made many mistakes in naming the files. People who download the original dataset (before 2021/04/20) please rename the tampered images using the commands in the excel files. 
 Originally, it was reported that there are 5123 tampered images, including 3274 copy-move images and 1849 spliced images. However, mistakenly classified files are renamed as follows.
 
 | No. of images | Originally named as           | Re-classified as              |
