@@ -12,6 +12,8 @@ I removed the download link of the original dataset to avoid the confusion. If y
 
 * [Update 2019/09/30]: In this version, almost the noises in the previous version are handled. The file names are also revised carefully.
 
+* [List of duplicate authentic images](https://pastebin.com/BBdwR3cX) provided by another researcher.
+
 Please notice that the authors made many mistakes in naming the files. People who download the original dataset (before 2021/04/20) please rename the tampered images using the commands in the excel files. 
 Originally, it was reported that there are 5123 tampered images, including 3274 copy-move images and 1849 spliced images. However, mistakenly classified files are renamed as follows.
 
