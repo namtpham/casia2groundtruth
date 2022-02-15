@@ -52,15 +52,31 @@ b. Copy-move images
 * S: Same (means the tampered region was copied from the same image)
 * And the rest is similar to case a.
 
-If you use the groundtruth dataset for a scientific publication, please cite the following paper:
+If you use the groundtruth dataset for a scientific publication, please cite the following papers:
 
-    @article{pham2019hybrid,
-      title={Hybrid Image-Retrieval Method for Image-Splicing Validation},
-      author={Pham, Nam Thanh and Lee, Jong-Weon and Kwon, Goo-Rak and Park, Chun-Su},
-      journal={Symmetry},
-      volume={11},
-      number={1},
-      pages={83},
-      year={2019},
-      publisher={Multidisciplinary Digital Publishing Institute}
-    }
+* CASIA dataset
+
+        @inproceedings{Dong2013,
+        doi = {10.1109/chinasip.2013.6625374},
+        url = {https://doi.org/10.1109/chinasip.2013.6625374},
+        year = {2013},
+        month = jul,
+        publisher = {{IEEE}},
+        author = {Jing Dong and Wei Wang and Tieniu Tan},
+        title = {{CASIA} Image Tampering Detection Evaluation Database},
+        booktitle = {2013 {IEEE} China Summit and International Conference on Signal and Information Processing}
+        }
+
+
+ * CASIA groundtruth dataset 
+ 
+        @article{pham2019hybrid,
+        title={Hybrid Image-Retrieval Method for Image-Splicing Validation},
+        author={Pham, Nam Thanh and Lee, Jong-Weon and Kwon, Goo-Rak and Park, Chun-Su},
+        journal={Symmetry},
+        volume={11},
+        number={1},
+        pages={83},
+        year={2019},
+        publisher={Multidisciplinary Digital Publishing Institute}
+        }
