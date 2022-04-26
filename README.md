@@ -2,6 +2,12 @@
 
 * CASIA 1.0 groundtruth dataset is avaiable at: https://github.com/namtpham/casia1groundtruth
 
+![Tp_D_CRN_M_N_pla00035_pla00033_10997.jpg](https://i.imgur.com/7AmV8Wx.jpg)
+![Tp_D_CRN_M_N_pla00035_pla00033_10997_gt.png](https://i.imgur.com/3eFze2H.png)
+
+![Tp_D_CRN_S_N_nat00033_cha00086_11502.jpg](https://i.imgur.com/6TgSMcG.jpg)
+![Tp_D_CRN_S_N_nat00033_cha00086_11502_gt.png](https://i.imgur.com/3Pd5DK0.png)
+
 * Groundtruth dataset can be downloaded directly from this repository.
 * Recently, I received several requests of the original dataset since the server is no longer available.
 I upload this dataset to my Drive to spread this dataset to the research community. Please visit the following link to download: (~2.6 GB)
